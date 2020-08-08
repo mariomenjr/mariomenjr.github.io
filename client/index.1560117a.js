@@ -1,0 +1,1 @@
+import{S as s,i as t,s as e}from"./client.5e89fc85.js";async function r(){return this.redirect(301,"/blog")}export default class extends s{constructor(s){super(),t(this,s,null,null,e,{})}}export{r as preload};
