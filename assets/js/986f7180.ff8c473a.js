@@ -1,0 +1,1 @@
+(self.webpackChunkmariomenjr=self.webpackChunkmariomenjr||[]).push([[848],{3357:function(a){"use strict";a.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"react","name":"react","count":2,"permalink":"/blog/tags/react"}')}}]);

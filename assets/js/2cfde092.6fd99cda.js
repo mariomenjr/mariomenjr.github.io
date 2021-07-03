@@ -1,0 +1,1 @@
+(self.webpackChunkmariomenjr=self.webpackChunkmariomenjr||[]).push([[428],{2011:function(a){"use strict";a.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"markdown","name":"markdown","count":1,"permalink":"/blog/tags/markdown"}')}}]);

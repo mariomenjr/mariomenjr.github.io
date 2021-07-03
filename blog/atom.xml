@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://your-docusaurus-test-site.com/blog</id>
+    <title>Mario Menjívar Blog</title>
+    <updated>2021-04-04T17:07:02.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://your-docusaurus-test-site.com/blog"/>
+    <subtitle>Mario Menjívar Blog</subtitle>
+    <icon>https://your-docusaurus-test-site.com/img/favicon.ico</icon>
+    <rights>Copyright © 2021 Mario Menjívar. Built with Docusaurus.</rights>
+    <entry>
+        <title type="html"><![CDATA[Cómo trabajar con React Context y Hooks]]></title>
+        <id>2021/04/04/como-trabajar-con-react-context-y-hooks</id>
+        <link href="https://your-docusaurus-test-site.com/blog/2021/04/04/como-trabajar-con-react-context-y-hooks"/>
+        <updated>2021-04-04T17:07:02.000Z</updated>
+        <summary type="html"><![CDATA[Esta mañana, por curiosidad, leía la fechas de lanzamientos de algunas de las herramientas que hoy damos por hecho. React, por ejemplo, fue lanzado el 29 de mayo del año 2013. En estos casi 10 años, hemos visto la evolución de este ecosistema, desde _Class Components_ a _Hooks_. Hoy, te mostraré cómo hacer uso de una de las últimas características añadidas a este popular Framework: el contexto.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cómo validar formularios en React, sin lágrimas]]></title>
+        <id>2020/09/04/como-validar-formularios-en-react-sin-lagrimas</id>
+        <link href="https://your-docusaurus-test-site.com/blog/2020/09/04/como-validar-formularios-en-react-sin-lagrimas"/>
+        <updated>2020-09-04T14:08:02.000Z</updated>
+        <summary type="html"><![CDATA[Históricamente, validar un formulario en React requiere de una cantidad impresionante de boilerplate que añade complejidad innecesaria. Veamos cómo librarnos de eso.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#Algoritmos: Búsqueda binaria]]></title>
+        <id>2020/08/14/algoritmos-busqueda-binaria</id>
+        <link href="https://your-docusaurus-test-site.com/blog/2020/08/14/algoritmos-busqueda-binaria"/>
+        <updated>2020-08-14T16:47:12.000Z</updated>
+        <summary type="html"><![CDATA[A qué alguna vez te toco buscar un número de teléfono en aquellos gigantescos directorios teléfonicos, ¿Cómo le hacías, página por página o te tratabas de ahorrar tiempo saltándote páginas?]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cómo crear un blog a base de markdown y JavaScript]]></title>
+        <id>2020/08/09/como-crear-un-blog-a-base-de-markdown-y-javascript</id>
+        <link href="https://your-docusaurus-test-site.com/blog/2020/08/09/como-crear-un-blog-a-base-de-markdown-y-javascript"/>
+        <updated>2020-08-09T17:23:17.000Z</updated>
+        <summary type="html"><![CDATA[Seguramente te haz hecho la siguiente pregunta: ¿Cómo hostear un blog que sea fácil de mantener, sin pagar un centavo? En este post te explico una de tantas alternativas.]]></summary>
+    </entry>
+</feed>
