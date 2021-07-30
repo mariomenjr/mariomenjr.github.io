@@ -1,1 +1,0 @@
-(self.webpackChunkmariomenjr=self.webpackChunkmariomenjr||[]).push([[644],{2460:function(e){"use strict";e.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"svelte","name":"svelte","count":1,"permalink":"/blog/tags/svelte"}')}}]);

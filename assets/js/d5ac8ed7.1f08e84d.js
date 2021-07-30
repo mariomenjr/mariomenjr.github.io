@@ -1,1 +1,0 @@
-(self.webpackChunkmariomenjr=self.webpackChunkmariomenjr||[]).push([[521],{7616:function(o){"use strict";o.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"howto","name":"howto","count":1,"permalink":"/blog/tags/howto"}')}}]);
