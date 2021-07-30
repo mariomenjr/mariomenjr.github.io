@@ -4,11 +4,18 @@
         <title>Mario Menjívar Blog</title>
         <link>https://mariomenjr.com/blog</link>
         <description>Mario Menjívar Blog</description>
-        <lastBuildDate>Sun, 04 Apr 2021 17:07:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Jul 2021 06:31:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>es</language>
         <copyright>Copyright © 2021 Mario Menjívar. Built with Docusaurus.</copyright>
+        <item>
+            <title><![CDATA[Autenticación como servicio con Identity Server 4]]></title>
+            <link>https://mariomenjr.com/blog/2021/07/29/autenticacion-como-servicio-con-identity-server-4</link>
+            <guid>2021/07/29/autenticacion-como-servicio-con-identity-server-4</guid>
+            <pubDate>Fri, 30 Jul 2021 06:31:18 GMT</pubDate>
+            <description><![CDATA[En esta entrada, hablaremos de quizá la más conocida implementación de los protocolos OpenID Connect y OAuth 2.0 para .NET Core: Identity Server 4. Te mostraré cómo implementarlo y consumir sus servicios de autorización/autenticación para asegurar una SPA junto con una API en NodeJS.]]></description>
+        </item>
         <item>
             <title><![CDATA[Cómo trabajar con React Context y Hooks]]></title>
             <link>https://mariomenjr.com/blog/2021/04/04/como-trabajar-con-react-context-y-hooks</link>
