@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mariomenjr.com/blog</id>
     <title>Mario Menjívar Blog</title>
-    <updated>2021-07-30T06:31:18.000Z</updated>
+    <updated>2021-07-30T02:31:18.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://mariomenjr.com/blog"/>
     <subtitle>Mario Menjívar Blog</subtitle>
@@ -12,7 +12,7 @@
         <title type="html"><![CDATA[Autenticación como servicio con Identity Server 4]]></title>
         <id>2021/07/29/autenticacion-como-servicio-con-identity-server-4</id>
         <link href="https://mariomenjr.com/blog/2021/07/29/autenticacion-como-servicio-con-identity-server-4"/>
-        <updated>2021-07-30T06:31:18.000Z</updated>
+        <updated>2021-07-30T02:31:18.000Z</updated>
         <summary type="html"><![CDATA[En esta entrada, hablaremos de quizá la más conocida implementación de los protocolos OpenID Connect y OAuth 2.0 para .NET Core: Identity Server 4. Te mostraré cómo implementarlo y consumir sus servicios de autorización/autenticación para asegurar una SPA junto con una API en NodeJS.]]></summary>
     </entry>
     <entry>
