@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmariomenjr=self.webpackChunkmariomenjr||[]).push([[456],{8234:function(a){a.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"busqueda-binaria","name":"busqueda binaria","count":1,"permalink":"/blog/tags/busqueda-binaria"}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmariomenjr=self.webpackChunkmariomenjr||[]).push([[248],{1202:function(e){e.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"nodejs","name":"nodejs","count":1,"permalink":"/blog/tags/nodejs"}')}}]);
