@@ -4,11 +4,18 @@
         <title>Mario Menjívar Blog</title>
         <link>https://mariomenjr.com/blog</link>
         <description>Mario Menjívar Blog</description>
-        <lastBuildDate>Thu, 29 Jul 2021 23:31:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Aug 2021 23:31:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>es</language>
         <copyright>Copyright © 2021 Mario Menjívar. Built with Docusaurus.</copyright>
+        <item>
+            <title><![CDATA[Cómo consultar y persistir datos en MongoDB con .NET]]></title>
+            <link>https://mariomenjr.com/blog/2021/08/18/como-consultar-y-persistir-datos-en-mongodb-con--net</link>
+            <guid>2021/08/18/como-consultar-y-persistir-datos-en-mongodb-con--net</guid>
+            <pubDate>Wed, 18 Aug 2021 23:31:18 GMT</pubDate>
+            <description><![CDATA[En esta entrada, te mostraré como implementar una capa de datos siguiendo el patrón repositorio para consultar y persistir datos a una instalación de MongoDB haciendo uso de C# y el .NET Core Framework.]]></description>
+        </item>
         <item>
             <title><![CDATA[Autenticación como servicio con Identity Server 4]]></title>
             <link>https://mariomenjr.com/blog/2021/07/29/autenticacion-como-servicio-con-identity-server-4</link>
