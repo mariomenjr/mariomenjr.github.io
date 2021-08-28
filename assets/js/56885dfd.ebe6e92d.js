@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmariomenjr=self.webpackChunkmariomenjr||[]).push([[4263],{2200:function(e){e.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"openid","name":"openid","count":1,"permalink":"/blog/tags/openid"}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmariomenjr=self.webpackChunkmariomenjr||[]).push([[57],{2483:function(a){a.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"data-layer","name":"data layer","count":1,"permalink":"/blog/tags/data-layer"}')}}]);

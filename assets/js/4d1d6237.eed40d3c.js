@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmariomenjr=self.webpackChunkmariomenjr||[]).push([[7267],{9766:function(t){t.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/repository-pattern","name":"repository pattern","count":1,"permalink":"/blog/tags/repository-pattern"}')}}]);
