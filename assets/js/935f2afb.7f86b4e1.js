@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmariomenjr=self.webpackChunkmariomenjr||[]).push([[53],{1109:function(e){e.exports=JSON.parse('{"pluginId":"default","version":"current","label":"Next","banner":"none","isLast":true,"docsSidebars":{"defaultSidebar":[{"type":"link","label":"Placeholder","href":"/docs/intro"}]}}')}}]);
