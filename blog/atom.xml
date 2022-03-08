@@ -7,7 +7,7 @@
     <link rel="alternate" href="https://mariomenjr.com/blog"/>
     <subtitle>Mario Menjívar Blog</subtitle>
     <icon>https://mariomenjr.com/img/favicon.ico</icon>
-    <rights>Copyright © 2021 Mario Menjívar. Built with Docusaurus.</rights>
+    <rights>Copyright © 2022 Mario Menjívar. Built with Docusaurus.</rights>
     <entry>
         <title type="html"><![CDATA[Cómo consultar y persistir datos en MongoDB con .NET]]></title>
         <id>2021/08/18/como-consultar-y-persistir-datos-en-mongodb-con--net</id>
