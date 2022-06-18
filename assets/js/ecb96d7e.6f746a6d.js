@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmariomenjr=self.webpackChunkmariomenjr||[]).push([[1279],{6515:function(e){e.exports=JSON.parse('{"permalink":"/blog/tags/svelte","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

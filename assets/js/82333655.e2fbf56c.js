@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmariomenjr=self.webpackChunkmariomenjr||[]).push([[813],{9732:function(a){a.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/algoritmos","name":"algoritmos","count":1,"permalink":"/blog/tags/algoritmos"}')}}]);

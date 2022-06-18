@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmariomenjr=self.webpackChunkmariomenjr||[]).push([[8428],{4989:function(a){a.exports=JSON.parse('{"label":"markdown","permalink":"/blog/tags/markdown","allTagsPath":"/blog/tags","count":1}')}}]);

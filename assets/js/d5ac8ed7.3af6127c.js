@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmariomenjr=self.webpackChunkmariomenjr||[]).push([[4521],{4886:function(a){a.exports=JSON.parse('{"label":"howto","permalink":"/blog/tags/howto","allTagsPath":"/blog/tags","count":1}')}}]);
