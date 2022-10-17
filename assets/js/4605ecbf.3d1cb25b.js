@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmariomenjr=self.webpackChunkmariomenjr||[]).push([[7084],{6770:function(a){a.exports=JSON.parse('{"label":"csharp","permalink":"/blog/tags/csharp","allTagsPath":"/blog/tags","count":2}')}}]);

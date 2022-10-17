@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmariomenjr=self.webpackChunkmariomenjr||[]).push([[4195],{2841:function(e,n,r){r.r(n),r.d(n,{default:function(){return a}});var t=r(7294),u=r(6550);function a(){return t.createElement(u.l_,{to:"/blog"})}}}]);

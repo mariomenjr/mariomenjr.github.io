@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmariomenjr=self.webpackChunkmariomenjr||[]).push([[4046],{9907:e=>{e.exports=JSON.parse('{"label":"computer science","permalink":"/blog/tags/computer-science","allTagsPath":"/blog/tags","count":1}')}}]);

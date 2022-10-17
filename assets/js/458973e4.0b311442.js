@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmariomenjr=self.webpackChunkmariomenjr||[]).push([[8047],{1474:a=>{a.exports=JSON.parse('{"label":"formik","permalink":"/blog/tags/formik","allTagsPath":"/blog/tags","count":1}')}}]);

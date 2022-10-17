@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmariomenjr=self.webpackChunkmariomenjr||[]).push([[8074],{3969:a=>{a.exports=JSON.parse('{"label":"oauth2.0","permalink":"/blog/tags/oauth-2-0","allTagsPath":"/blog/tags","count":1}')}}]);

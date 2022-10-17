@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmariomenjr=self.webpackChunkmariomenjr||[]).push([[6034],{4621:e=>{e.exports=JSON.parse('{"label":"patr\xf3n de repositorio","permalink":"/blog/tags/patron-de-repositorio","allTagsPath":"/blog/tags","count":1}')}}]);

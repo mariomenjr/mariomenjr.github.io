@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmariomenjr=self.webpackChunkmariomenjr||[]).push([[8917],{261:function(e){e.exports=JSON.parse('{"label":"redux","permalink":"/blog/tags/redux","allTagsPath":"/blog/tags","count":1}')}}]);

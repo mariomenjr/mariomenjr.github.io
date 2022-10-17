@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmariomenjr=self.webpackChunkmariomenjr||[]).push([[5317],{3545:function(a){a.exports=JSON.parse('{"label":"dao","permalink":"/blog/tags/dao","allTagsPath":"/blog/tags","count":1}')}}]);
